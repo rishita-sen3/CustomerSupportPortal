@@ -1,0 +1,16 @@
+bin/
+obj/
+*.user
+*.suo
+*.db
+*.DS_Store
+*.pdb
+*.cache
+*.log
+appsettings.Development.json
+appsettings.json
+**/bin/
+**/obj/
+*.user
+.vs/
+
